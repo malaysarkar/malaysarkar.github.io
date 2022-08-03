@@ -1,7 +1,7 @@
 ## GitHub Pages
 
 ### PCDE-Activityies
-https://malaysarkar.github.io/PCDE-Activity-9.1[https://malaysarkar.github.io/PCDE-Activity-9.1]
+[https://malaysarkar.github.io/PCDE-Activity-9.1](https://malaysarkar.github.io/PCDE-Activity-9.1)
 
 
 ### Jekyll Themes
